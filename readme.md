@@ -11,8 +11,8 @@ LICENSE: [MIT](./license.md)
 1. <button>[git config](./gitconfig.md)</button>
 2. <button>[git init](./gitinit.md) </button>
 3. <button>[git add](./add.md) </button>
-4. <button>[git commit](./commit) </button>
-5. <button>[git clone](./clone)</button>
+4. <button>[git commit](./commit.md) </button>
+5. <button>[git clone](./clone.md)</button>
 
 Работа с удалённым репозиторием
 1. <button> [git remote add](./remote.md)</button>
