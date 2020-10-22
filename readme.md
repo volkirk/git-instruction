@@ -1,16 +1,3 @@
-<html>
- <head>
-  <meta charset="utf-8">
-  <style>
-   body {
-    background: #8A2BE2	; /* Цвет фона */
-   }
-  </style>
- </head>
- <body>
- </body>
-</html>
-
 # **Здравствуйте**
 ## <b>Для вас представлена инструкция по работе с git. </b>
  <!DOCTYPE html>
