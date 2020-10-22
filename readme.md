@@ -29,10 +29,10 @@ LICENSE: [MIT](./license.md)
 5. <button>[git clone](./clone)</button>
 
 Работа с удалённым репозиторием
-1. <button> git remote add</button>
-2. <button> git fetch</button>
-3. <button> git merge</button>
-4. <button> pull & push</button>
+1. <button> [git remote add](./remote.md)</button>
+2. <button> [git fetch](./fetch.md)</button>
+3. <button> [git merge](./merge.md)</button>
+4. <button> [pull & push](./pullpush.md)</button>
 
 
 *А так же, [Видеоинструкция](https://www.youtube.com/watch?v=PEKN8NtBDQ0) по работе с git для новичков*
