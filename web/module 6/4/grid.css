@@ -1,0 +1,23 @@
+ .grid {
+    display: grid;
+    background-color: tomato;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    margin: 0 auto;
+    grid-gap: 4px;
+ }
+} 
+/* @media all and (max-width: 320px){
+.grid {
+grid-template-rows: 1fr;
+grid-template-columns: 1fr;
+    grid-template-areas: 
+    "header"
+    "logo"
+    "arcticle"
+    "navbar"
+    "footer"
+    "socicons";
+
+}
+} */

@@ -1,0 +1,36 @@
+.grid {
+    display: grid;
+    grid-template-rows: repeat(4, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+    margin: 0 auto;
+    background-color: darkcyan;
+}
+
+.grid > div {
+    font-size: 1rem;
+    padding: .5em;
+    text-align: center;
+    margin: 5px;
+    background-color: white;
+}
+.sub {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows:1fr 1fr 1fr ;
+    background-color: violet;
+    align-items: center;   
+}
+
+ 
+/* grid-cont {
+    display: grid;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-columns: 200px 200px 200px;
+    grid-template-areas: 
+    "header header header"
+    "article1 article2 navbar"
+    "logo footer footer";
+    margin: 0 auto;
+    grid-gap: 2px;
+} */
